@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="299">
+  <name>Afterglow-dark Wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1628962</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>10896</downloads>
+  <installedfile>/home/zatsando/.local/share/wallpapers/Afterglow-dark/*</installedfile>
+  <id>1628962</id>
+  <releasedate>2021-10-28</releasedate>
+  <summary>Afterglow-dark kde is a dark clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+    &lt;br />
+    &lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1628962/6e8057f6570b35807e17b47ccc9f85c5f8d21157dbcce861cc601eb2e3d8e636cb40.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1628962/6e8057f6570b35807e17b47ccc9f85c5f8d21157dbcce861cc601eb2e3d8e636cb40.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzU0NDYyMzUiLCJvIjoiMSIsInMiOiIzNmQ2YTFhOTc1OTUwMWE2YzRmOTU3YjllMDQ0YTRkZmI0ODg1Y2JjMDg0MjYxNmJhZGY0MjAwMjZlNzU5MmI2ZWYyZmIzOTM4MjUzODM1YTYwOThhMGNiZjJiMjhmZDFjMGQ4ZmQ2ZDJjNDYyNmI3ZGZkOGQ0NjExOWNlMmE3YyIsInQiOjE2ODM3MTk3NjgsInN0ZnAiOm51bGwsInN0aXAiOiIyMTMuMjQ5LjQ5LjUwIn0.oEBvBzrA-4BW0KUCm-DvLsolpjHDfquKEUX_Imc6mgg/Afterglow-dark.zip</payload>
+  <tags>artwork,wallpaper,plasma,original-product,gplv3,kde</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
