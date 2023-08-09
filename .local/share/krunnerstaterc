@@ -1,5 +1,0 @@
-[PlasmaRunnerManager]
-LaunchCounts=1 exec:///usr/bin/flatpak run --branch=stable --arch=x86_64 --command=brave --file-forwarding com.brave.Browser @@u @@,1 krunner_systemsettings_kcm_autostart,4 exec:///usr/bin/konsole,2 exec:///usr/bin/systemsettings,1 exec:///usr/bin/latte-dock,6 exec:///usr/bin/plank,1 exec:///usr/bin/plasma-discover,1 krunner_systemsettings_kcm_notifications
-
-[PlasmaRunnerManager][History]
-7de97bca-3394-4ffb-9e9e-c8be7645ceac=pla,sett,plan,dock,softw,start,pl,ter,brave,syst,notif,kons

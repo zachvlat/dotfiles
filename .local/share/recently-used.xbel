@@ -1,47 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
-  <bookmark href="file:///home/zatsando/Downloads/kindpng_975797.png" added="2023-05-10T10:47:06.523190Z" modified="2023-05-10T10:47:28.503000Z" visited="2023-05-10T10:47:28.503000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:applications>
-          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-05-10T10:47:06.523194Z" count="1"/>
-        <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-05-10T10:47:28.503000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/" added="2023-05-10T10:51:51.972000Z" modified="2023-05-10T10:51:51.972000Z" visited="2023-05-10T10:51:51.972000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="firefox" exec="firefox %u %u" modified="2023-05-10T10:51:51.972000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="appstream://org.kde.latte-dock" added="2023-05-10T10:55:27.072000Z" modified="2023-05-10T10:55:27.072000Z" visited="2023-05-10T10:55:27.072000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/octet-stream"/>
-        <bookmark:applications>
-          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %U %u" modified="2023-05-10T10:55:27.072000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/zatsando/.local/share/wallpapers/Afterglow-dark/contents/images/2560x1440.png" added="2023-05-10T10:56:20.338000Z" modified="2023-05-10T10:56:20.338000Z" visited="2023-05-10T10:56:20.338000Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="" exec="dolphin %u" modified="2023-05-10T10:56:20.338000Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-</xbel>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+></xbel>
