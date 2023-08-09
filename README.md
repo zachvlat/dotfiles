@@ -8,14 +8,18 @@ To set up these dotfiles, follow these steps:
 
 1. Clone the repository to your local machine using Git:
 
+`git clone https://github.com/zachvlat/dotfiles`
 
 2. Install the required dependencies by running the following command:
 
+`sudo apt-get install gir1.2-gmenu-3.0 gnome-menus`
 
 3. **Important:** Prior to proceeding, ensure you have a backup of your existing configuration files. Copying the dotfiles to your home folder will overwrite your current settings.
 
+
 4. Copy the dotfiles to your home folder using this command:
 
+`cp -r dotfiles/* ~/`
 
 5. After copying the files, you might need to restart GNOME Shell. Press `Alt+F2`, then type "r" and press `Enter` to apply the changes.
 
